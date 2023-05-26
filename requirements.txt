@@ -1,0 +1,6 @@
+ipykernel
+numpy
+plotly
+pandas
+nbformat
+numba
